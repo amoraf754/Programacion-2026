@@ -13,3 +13,4 @@ else:
     mensaje = "El guarda esta confundido, revisa las repuestas"
 
 print(mensaje)
+mensaje "Acceso denegado: necesita dormir y cafe"
